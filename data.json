@@ -53,6 +53,40 @@
           "img": "./assets/img/Ora Nista Creations.png"
         }
       ]
+    },
+
+    {
+      "title": "Abstract Creations",
+      "cover_img": "/assets/img/Alpha.png",
+      "extra_imgs": [
+        "./assets/img/Alpha.png",
+        "./assets/img/Anchor.png",
+        "./assets/img/Insanity.png",
+        "./assets/img/Torn Face.png"
+      ],
+      "content": [
+        {
+          "title": "",
+          "description": "The design showcases the wolf in a dynamic pose. A complex interplay of graceful curves and angular facets captures the wolf's raw energy, evoking its prowess as a hunter and its profound connection to the wild. The composition beckons you to explore the intricate details that converge to create this abstract wolf, each element harmoniously contributing to the overall narrative. Whether viewed from a distance, where the wolf's silhouette dominates the canvas, or up close, where the intricate patterns reveal themselves, this abstract wolf design is a testament to the power of artistic interpretation in encapsulating the spirit of the wild.",
+
+          "img": "./assets/img/Alpha.png"
+        },
+        {
+          "title": "",
+          "description": "This abstract anchor design invites viewers to explore its layers of meaning and emotion. Whether contemplated as a representation of security amidst life's uncertainties or appreciated for its artistic ingenuity, the design's fusion of tradition and abstraction captures the imagination. Whether displayed prominently in a space or examined intimately, this abstract anchor design offers a unique perspective on a familiar symbol, provoking thought and contemplation with every gaze.",
+          "img": "./assets/img/Anchor.png"
+        },
+        {
+          "title": "",
+          "description": "\"Introducing \"Insanity\", an abstract architectural marvel that challenges conventional perceptions and beckons you to explore the boundaries of imagination. \"Insanity\" rises with audacious defiance, its form twisting and contorting in a mesmerizing dance of lines and shapes. Angular planes and undulating curves intertwine, creating a sense of controlled chaos that draws you into its enigmatic allure. \"Insanity\" isn't merely a building; it's an artistic statement, a conceptual masterpiece that invites dialogue and introspection.",
+          "img": "./assets/img/Insanity.png"
+        },
+        {
+          "title": "",
+          "description": "As you contemplate \"Torn Face\", you're invited to ponder the concept of identity and the impact of experiences on the self. The design doesn't merely portray a fragmented face; it portrays the fragments of a life journey, each tear representing a memory, a challenge, a triumph. The torn paper not only conceals but also reveals, offering a metaphor for the layers we build around ourselves and the stories we choose to share. \"Torn Face\" is a graphic design that speaks to the universal human experience, celebrating the resilience, beauty, and imperfection of the human spirit. It invites viewers to explore the narrative behind the fragments and to reflect on the stories that lie beneath the surface of our own torn and beautifully complex lives",
+          "img": "./assets/img/Torn Face.png"
+        }
+      ]
     }
   ]
 }
