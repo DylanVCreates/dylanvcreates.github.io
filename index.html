@@ -225,7 +225,7 @@
             <label for="name">Enter name</label
             ><input
               type="text"
-              class="text-2xl placeholder:text-[#1a2340] py-2 bg-transparent border-b border-[#1a2340]"
+              class="text-2xl placeholder:text-[#1a2340] py-2 bg-transparent border-b border-[#1a2340] focus:outline-none"
               placeholder="Enter your name"
             />
           </div>
@@ -233,7 +233,7 @@
             <label for="email">Enter email</label
             ><input
               type="text"
-              class="text-2xl placeholder:text-[#1a2340] py-2 bg-transparent border-b border-[#1a2340]"
+              class="text-2xl placeholder:text-[#1a2340] py-2 bg-transparent border-b border-[#1a2340] focus:outline-none"
               placeholder="Enter your email"
             />
           </div>
@@ -242,9 +242,14 @@
             <textarea
               placeholder="Type your message here..."
               rows="5"
-              class="text-2xl placeholder:text-[#1a2340] py-2 bg-transparent border-b border-[#1a2340]"
+              class="text-2xl placeholder:text-[#1a2340] py-2 bg-transparent border-b border-[#1a2340] focus:outline-none"
             ></textarea>
           </div>
+          <input
+            type="submit"
+            value="Submit"
+            class="border border-[#1a2340] md:col-span-2 w-full font-bold py-4 hover:bg-[#1a2340] hover:text-[#fcd108] transition duration-500 focus:outline-none"
+          />
         </form>
       </div>
     </section>

@@ -31,7 +31,7 @@ async function showProject(e) {
     work.content.forEach((section, index) => {
       index % 2 === 0
         ? (document.getElementById("project-content").innerHTML += `
-            <div class="grid lg:grid-cols-3 text-white">
+            <div class="grid lg:grid-cols-3 gap-4 text-white">
                 <div class="${
                   section.img === "" ? "lg:col-span-3" : "lg:col-span-2"
                 } flex flex-col gap-4">
@@ -44,7 +44,7 @@ async function showProject(e) {
             </div>
         `)
         : (document.getElementById("project-content").innerHTML += `
-            <div class="grid grid-col lg:grid-cols-3 text-white">
+            <div class="grid grid-col lg:grid-cols-3 gap-4 text-white">
                 <div class="order-2 lg:order-1 flex justify-center items-center">
                     <img src="${section.img}" class="bg-[#2a3b77]"/>
                 </div>
